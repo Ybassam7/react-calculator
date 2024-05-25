@@ -23,6 +23,6 @@ button {
 
 button:nth-last-child(2),
 button:nth-last-child(1) {
-  background: tomato;
+  background: rgb(0, 50, 136);
   color: white;
 }
